@@ -1,2 +1,6 @@
 # 04_BattleTanksGame
-Open world head to head tank fight. Has simple AI, Environment, and controls
+Open world head to head tank fight. 
+>AI, Environment, Controls
+
+##Commits
+*BT-1 Intro-CreatingRepo
